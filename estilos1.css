@@ -1,0 +1,105 @@
+body{
+    background:-webkit-linear-gradient(left,rgb(222, 4, 4),blue);
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+
+.headercas{
+    margin: 0% 0.5%;
+    background-color: rgb(255, 208, 0);
+    width: 20% ;
+    text-align: center;
+}
+
+.seccion2{
+    display: flex;
+    margin-top: 10px;
+    padding-left: 0.5% ;
+
+}
+
+.section2co{
+    width:70%;
+    background-image: url(tacosss.jpg);
+    padding-top: 4%;
+}
+
+.section2co1{
+    margin-left: 25px;
+    background-color: rgb(255, 208, 0);
+    margin-right: 680px;
+}
+
+.precios{
+    margin-left: 1%;
+}
+
+.precios2{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: -5px;
+    height: 85px;
+    width: 400px;
+    background-color: rgb(255, 208, 0);
+    text-align: center;
+}
+
+.precios2co{
+    padding: 50% 400%;
+    margin-left: 9px;
+    background-color: rgb(255, 208, 0);
+    margin-top: 20%;
+}
+
+.texpre{
+    padding-top: 15px;
+}
+
+.casillas{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1%;
+}
+
+.casillas2{
+    background-color: white;
+    text-align: center;
+    padding: 1% 5% 0% 5%;
+    margin-left: 10px;
+    margin-right: 11px;
+}
+
+.casillasimg{
+    height: 30px;
+    width:33px;
+}
+
+.cona{
+    display: flex;
+    background-color: white;
+    margin: 10px;
+    margin-top: 13px;
+}
+
+.fotot{
+    height: 200px;
+    margin: 2%;
+    margin-left: 49px;
+    margin-top: 35px;
+    margin-bottom: 30px;
+}
+
+.textoco{
+    margin-left: 20px;
+    margin-top: 2%;
+}
+
+.textoboton{
+    background-color: rgb(255, 208, 0);
+    border: none;
+    height: 35px;
+    width: 130px;
+}
